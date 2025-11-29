@@ -82,7 +82,7 @@ const DragDropList = () => {
   return (
     <div className="app-container">
       <h1 style={{ marginBottom: 0 }}>Drag & Drop Digits</h1>
-      <p style={{ marginTop: 0 }}>Drag the boxes to reorder the digits 0-9.</p>
+      <p style={{ marginTop: 0 }}>Drag the boxes to reorder the digits 0–9.</p>
       <div className="grid-list-container">
         <div className="grid-row row-1">{renderBlocks(rowA, 0)}</div>
 
